@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @haiiamnikhil
+- 👋 Hi, I’m Nikhil Pradeep
 - 👀 I’m interested in Web and Ai Development
 - 🌱 I’m currently learning New Updates on Ai
 - 💞️ I’m looking to collaborate on AI on Web
